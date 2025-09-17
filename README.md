@@ -17,4 +17,6 @@
 - [Talking to Your Data: How Natural Language-to-SQL is Shaping the Future of Data Interaction](https://medium.com/@adnanmasood/talking-to-your-data-how-natural-language-to-sql-is-shaping-the-future-of-data-interaction-021fd0d8687a)
 
 ## Example setup
+- [alphavantage APIs](https://www.alphavantage.co/)
+- [CoinGecko API](https://docs.coingecko.com/)
 - [Github repo](https://github.com/anelook/mcp-for-analytics-iceberg-tableflow-trino-claude-setup)
