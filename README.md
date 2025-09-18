@@ -20,3 +20,4 @@
 - [alphavantage APIs](https://www.alphavantage.co/)
 - [CoinGecko API](https://docs.coingecko.com/)
 - [Github repo](https://github.com/anelook/mcp-for-analytics-iceberg-tableflow-trino-claude-setup)
+- [Streaming real time financial data step by step](https://github.com/gAmUssA/cc-workshop/tree/main)
